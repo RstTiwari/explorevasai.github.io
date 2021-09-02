@@ -10,7 +10,7 @@ Things u will learn
 
 
 HTML
-* How put Full Scale playing  video in Background
+* How  to put Full Scale playing  video in Background
 * Uses of diff kind of tag such as ul ,il, div
 * how to define class and Id's
 * how to put comment in Html
