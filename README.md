@@ -6,6 +6,8 @@ Here is Snap shot Of Web site
 it kind of basic website , i have bee trying to learn Html and Css and made this project.
 
 Things u will learn
+
+
 HTML
 * How put Full Scale playing  video in Background
 * Uses of diff kind of <tag> such as <ul> ,<il> , <div>
@@ -13,6 +15,8 @@ HTML
 * how to put comment in Html
   
 Css
+  
+  
   * padding for top bottom and left right
   * margin from all this sides
   * position
